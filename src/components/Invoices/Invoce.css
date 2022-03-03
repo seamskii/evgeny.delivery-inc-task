@@ -1,0 +1,30 @@
+.invoice-container {
+  display: flex;
+  justify-content: space-around;
+  height: 100%;
+}
+.price-conteiner {
+  background-color: darkgray;
+  padding: 1px 10px 0px 10px;
+}
+.top {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.date {
+  margin-left: 200px;
+}
+.invoice-number {
+  margin-right: 300px;
+}
+.totals {
+  margin-top: 200px;
+}
+.price {
+  margin-right: 130px;
+}
+.bottom-text {
+  margin-top: 20px;
+}
